@@ -1,1 +1,1 @@
-# KarZel
+KarZel adalah aplikasi bertema superhero dan merupakan adaptasi dari superhero-superhero Marvel. Karzel berisi video, dan berisi tampilan yang interaktif yang berisi dan menjelaskan informasi detail beberapa karakternya. KarZel juga memiliki backsound yang membuat aplikasi KarZel lebih menarik ketika dibuka. Selain itu KarZel juga memiliki pilihan yang langsung mengarahkan pengguna ke halaman instagram official Marvel.
